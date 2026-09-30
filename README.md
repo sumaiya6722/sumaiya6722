@@ -1,176 +1,162 @@
-<!-- ======================= HEADER ======================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=Sumaiya%20Ali&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20&descColor=c4b5fd" width="100%"/>
-</p>
-
-
-<!-- ======================= INTRO ======================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Sumaiya Ali
-</h1>
-
-<h3 align="center">
-  Full-Stack Web Developer | React.js • Next.js • Node.js • Express.js
-</h3>
-
-<p align="center">
-  <i>
-    Building responsive, user-focused and practical web applications.
-  </i>
-</p>
+<!-- ========================================================= -->
+<!--                    SUMAIYA ALI                           -->
+<!--             GitHub Profile README                        -->
+<!-- ========================================================= -->
 
 
-<!-- ======================= SOCIAL LINKS ======================= -->
+<!-- ========================= HERO ========================= -->
 
-<p align="center">
+<div align="center">
 
-  <a href="www.linkedin.com/in/sumaiya-ali-36aaa5224">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+# ✦ SUMAIYA ALI
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+### Full-Stack Web Developer
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+**Building practical, responsive and user-focused experiences for the web.**
 
-</p>
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312e81,100:4c1d95&height=2&section=header" width="80%" />
+
+</div>
 
 
-<!-- ======================= ABOUT ME ======================= -->
+<!-- ======================= ABOUT ========================== -->
 
-## 👩‍💻 About Me
+<br>
 
-I'm a **Full-Stack Web Developer** passionate about building clean, responsive, and user-focused web applications.
+## 01 / A little about me
 
-I recently completed my **B.Sc. in Computer Science & Engineering from BRAC University**. I enjoy working across both frontend and backend development — from creating interactive interfaces with React.js and Tailwind CSS to building RESTful APIs with Node.js and Express.js.
+I'm a **Full-Stack Web Developer** passionate about creating clean, responsive and user-focused web applications.
 
-I'm continuously learning modern web technologies and enjoy solving real-world problems through thoughtful development.
+I recently completed my **B.Sc. in Computer Science & Engineering from BRAC University**. My development experience spans both frontend and backend — from building interactive interfaces with React.js, Next.js, Tailwind CSS and Framer Motion to developing RESTful APIs with Node.js, Express.js and MongoDB.
 
----
+I enjoy turning ideas into functional products, learning new technologies and solving real-world problems through code.
 
-<!-- ======================= TECH STACK ======================= -->
 
-# 🛠️ Tech Stack & Tools
+<!-- ==================== CORE AREAS ========================= -->
+
+<br>
+
+## 02 / What I work with
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
+<br>
 
-**Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Framer Motion
+<br><br>
+
+`React.js`  
+`Next.js`  
+`Tailwind CSS`  
+`Framer Motion`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<br>
 
-**Technologies**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- HTTP-only Cookies
+<br><br>
+
+`Node.js`  
+`Express.js`  
+`REST APIs`  
+`JWT Authentication`
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+<br>
 
-**Database**
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
-- MongoDB
-- Database Integration
-- CRUD Operations
+<br><br>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- REST API Testing
+`MongoDB`  
+`CRUD Operations`  
+`Database Integration`
 
 </td>
 
 </tr>
 </table>
 
----
 
-# 🚀 Featured Projects
+<!-- ==================== PROJECTS ========================== -->
+
+<br>
+
+## 03 / Selected work
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 📚 StudyNook
+### 01 — 📚 StudyNook
 
-A full-stack **study-room booking platform** where users can explore available rooms, search by different criteria, view room details, and make bookings based on their preferences.
+**Study-room booking platform**
 
-An admin dashboard allows room management, including adding, editing, and deleting rooms and features.
+A full-stack platform where users can discover available study rooms, search by different criteria, view room details, and make bookings based on their preferences.
 
-### Tech Stack
+An admin interface allows rooms and their features to be added, edited and removed.
 
-`React` `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+<br>
+
+**Built with**
+
+`React` `Next.js` `Node.js`  
+`Express.js` `MongoDB` `Tailwind CSS`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 LifeCoach
+### 02 — 🎓 LifeCoach
 
-A full-stack **learning platform** supporting both free and premium content.
+**Learning & content platform**
 
-Users can create lessons, like and favorite content, report lessons, and manage their profiles. The platform also includes an admin dashboard for content moderation and user management.
+A full-stack learning platform offering both free and premium content. Users can create lessons, like and favorite content, report lessons and manage their profiles.
 
-### Tech Stack
+Includes administrative tools for content moderation and user management, with Stripe integration for premium access.
 
-`React` `Node.js` `Express.js` `MongoDB` `Stripe` `Tailwind CSS`
+<br>
+
+**Built with**
+
+`React` `Node.js` `Express.js`  
+`MongoDB` `Stripe` `Tailwind CSS`
 
 </td>
 
@@ -180,81 +166,152 @@ Users can create lessons, like and favorite content, report lessons, and manage 
 
 <td width="50%" valign="top">
 
-## 📖 BookShelph
+### 03 — 📖 BookShelph
 
-A full-stack **online book-borrowing platform** where users can explore available books, search by title, filter by category, view book details, and request books through the borrowing system.
+**Online book-borrowing platform**
+
+A platform where users can explore available books, search by title, filter by category, view book details and request books through the borrowing system.
 
 Users can also manage their own profiles.
 
-### Tech Stack
+<br>
 
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+**Built with**
+
+`React` `Node.js` `Express.js`  
+`MongoDB` `Tailwind CSS`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💡 More Projects
+### 04 — 🌱 What's next?
 
-I'm continuously building and experimenting with new projects while improving my skills in:
+I'm continuing to build projects while deepening my understanding of:
 
-- Full-Stack Development
-- REST APIs
-- Authentication
-- Database Management
-- Modern React Applications
-- Responsive UI Development
+<br>
+
+`Full-Stack Development`
+
+`Modern React`
+
+`Backend Development`
+
+`REST APIs`
+
+`Authentication`
+
+`Database Design`
 
 </td>
 
 </tr>
 </table>
 
----
 
-# 📊 GitHub Statistics
+<!-- ====================== TOOLBOX ========================== -->
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumaiya6722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+## 04 / My toolbox
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya6722&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
 
-
-<!-- ======================= STREAK ======================= -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sumaiya6722&theme=tokyonight&hide_border=true" width="70%"/>
-
-</p>
+</div>
 
 
-<!-- ======================= ACTIVITY ======================= -->
+<!-- ====================== GITHUB =========================== -->
 
-## 📈 Contribution Activity
+<br>
 
-<p align="center">
+## 05 / GitHub activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya6722&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<div align="center">
 
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sumaiya6722&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=7c3aed&text_color=6b7280"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya6722&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=6b7280"
+  height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=sumaiya6722&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"
+  width="70%"
+/>
+
+</div>
 
 
-<!-- ======================= CURRENTLY ======================= -->
+<!-- ================= CURRENTLY LEARNING =================== -->
 
-# 🌱 Currently Learning
+<br>
+
+## 06 / Currently learning
+
+<table>
+<tr>
+
+<td>
+
+🌐 **Full-Stack Development**
+
+</td>
+
+<td>
+
+⚛️ **Advanced React & Next.js**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚙️ **Backend & API Development**
+
+</td>
+
+<td>
+
+🔐 **Authentication & Security**
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================== APPROACH ========================== -->
+
+<br>
+
+## 07 / How I approach development
 
 ```text
-React.js
-Next.js
-Node.js
-Express.js
-MongoDB
-REST APIs
-Authentication & Authorization
-Full-Stack Development
+Understand the problem
+        ↓
+Plan the solution
+        ↓
+Build the interface
+        ↓
+Connect the backend
+        ↓
+Work with the database
+        ↓
+Test & improve
+        ↓
+Ship the product
