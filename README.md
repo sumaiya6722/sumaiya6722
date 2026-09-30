@@ -91,11 +91,11 @@ My main areas of interest include:
 
 ### 🔧 Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br/>
 
-`Git` `GitHub` `VS Code` `Postman`
+`Git` `GitHub` `VS Code` 
 
 </div>
 
