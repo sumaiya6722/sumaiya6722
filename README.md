@@ -13,11 +13,10 @@
 
 ## About Me
 
-Hi, I’m **Sumaiya Ali**, a Computer Science and Engineering graduate from **BRAC University** and a full-stack web developer. I enjoy building useful web applications with clear interfaces, reliable APIs, and thoughtful user flows.
-
-- 🌱 Exploring **Next.js** and modern full-stack development.
-- 🛠️ Building projects with **React, Node.js, Express, and MongoDB**.
-- 🔐 Interested in authentication, payment integration, and database-driven products.
+- **Personal engagement:** I’m **Sumaiya Ali**, a CSE graduate from **BRAC University** who enjoys turning practical ideas into useful, easy-to-use web applications.
+- **Technical expertise:** I build full-stack applications with **React, Next.js, Node.js, Express, and MongoDB**, with an interest in authentication, payment integration, and thoughtful user flows.
+- **Career achievements:** I’ve built several end-to-end projects, including **KeenFriends**, a social platform; **StudyNook**, a study-room discovery and booking app; **LifeCoach**, a learning platform with premium access; and **BookShelph**, a book-borrowing platform.
+- **Passion & goals:** I’m exploring modern full-stack development and aim to contribute to open-source projects and build reliable, scalable backend systems.
 
 ## Skills
 
@@ -46,5 +45,8 @@ Hi, I’m **Sumaiya Ali**, a Computer Science and Engineering graduate from **BR
 
 ## Connect
 
+- **Email:** Add your preferred email address
+- **Portfolio:** Add your portfolio URL
+- **Phone:** Add your number with country code (for example, +880 …)
 - [LinkedIn](https://www.linkedin.com/in/sumaiya-ali-36aaa5224)
 - [GitHub](https://github.com/sumaiya6722)
