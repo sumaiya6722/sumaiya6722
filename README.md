@@ -45,8 +45,7 @@
 
 ## Connect
 
-- [Email](sumaiyaali6722@gmail.com)
+- [sumaiyaali6722@gmail.com]
 - [Portfolio](https://portfolio-eta-puce-18.vercel.app/)
-- [Phone](+8801749382340)
 - [LinkedIn](https://www.linkedin.com/in/sumaiya-ali-36aaa5224)
 - [GitHub](https://github.com/sumaiya6722)
